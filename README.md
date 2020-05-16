@@ -1,4 +1,4 @@
-# Brafé 3
+# [Brafé 3](https://hil-beer-t.github.io/brafe-3-grid/)
 
 Simple pure HTML/CSS static page of a Coffee Shop.
 
